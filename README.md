@@ -42,4 +42,4 @@ Here are few sample results:
 
 ![alt text](https://github.com/ChitraChaudhari/SageMaker-Deploying-Sentiment-Analysis/blob/master/movie%20review3.JPG)
 
-<a href="https://www.youtube.com/watch?v=Oe-cx9FbvS4&feature=youtu.be" target="_blank"><img src="https://www.youtube.com/watch?v=Oe-cx9FbvS4&feature=youtu.be" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=Oe-cx9FbvS4&feature=youtu.be" target="_blank"><img src="https://www.youtube.com/watch?v=Oe-cx9FbvS4&feature=youtu.be" alt="Link to output video" width="240" height="180" border="10" /></a>
